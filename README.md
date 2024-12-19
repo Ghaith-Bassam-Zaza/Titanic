@@ -15,11 +15,13 @@ This project implements various machine learning models to predict survival on t
 
 ## Results
 Best performing models on Kaggle's test set:
-1. Neural Network: 77.03%
-2. Logistic Regression: 76.79%
-3. Random Forest: 76.08%
-4. KNN: 75.84%
-5. XGBoost: 74.16%
+1. SVM: 77.99%
+2. Neural Network: 77.51%
+3. KNN: 76.56%
+4. Logistic Regression: 76.32%
+5. Random Forest: 75.60%
+6. Gradient Boosting: 75.84%
+7. XGBoost: 73.92%
 
 ## Features Engineering
 The following features were processed and engineered:
